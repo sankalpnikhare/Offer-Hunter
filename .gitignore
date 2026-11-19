@@ -1,0 +1,12 @@
+node_modules/
+.auth/
+.env 
+*.log
+.auth
+.env 
+data/
+
+node_modules/
+.env
+.auth/
+data/
